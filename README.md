@@ -1,9 +1,9 @@
 # Solutions to Frontend Mentor Challenges
-- I embarked on this challenge to provide production-grade solutions to the published challenges as part of my ```NO ZERO DAYS``` journey.  
+- I embarked on this challenge to provide production-grade solutions to the published challenges as part of my `NO ZERO DAYS` journey.  
 - This repo will do at least three things:
   - House all my solutions, serving as proof of accountability.
+  - Refine my learning in public method throughout the way.
   - Simplify the feedback loop: ```share → gather → analyze → correct → repeat```.
-  - Refine my learning in public method throughout the way.    
 - I will use various development tools, frameworks and libraries to achieve my goals.  
   Best practices for accessibility and semantic accuracy will also be followed.
 - Direct links to every solution will be provided.  
